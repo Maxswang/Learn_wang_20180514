@@ -1,0 +1,6 @@
+
+objects = program.o foo.o util.o
+program : $(objects)
+	cc -o program $(objects)
+
+$(objects) : defs.h

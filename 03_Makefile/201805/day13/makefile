@@ -1,0 +1,4 @@
+VAR = $(wildcard *.c)
+
+
+

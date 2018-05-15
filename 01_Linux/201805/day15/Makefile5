@@ -1,0 +1,6 @@
+# Makefile内容
+# 字符串替换函数  $(subst <from>, <to> , <text>)
+all:
+	@echo $(subst t,e, maktfilt)
+
+

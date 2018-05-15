@@ -1,0 +1,8 @@
+export VALUE1 := export.c
+VALUE2 := no-export.c
+
+all:
+	@echo "主Makefile begin"
+	@cd ./other && make
+	@echo "主Makefile end"
+

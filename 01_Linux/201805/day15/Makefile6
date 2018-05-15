@@ -1,0 +1,7 @@
+#Makefile内容
+# 模式字符替换函数 $(patsubst <pattern>, <replacement>, <text>)
+
+SRC = programA.c programB.c programC.c
+all:
+	@echo $(patsubst %.c,%.o,$(SRC))
+

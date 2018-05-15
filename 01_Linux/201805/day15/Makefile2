@@ -1,0 +1,8 @@
+define run-hello-makefile
+@echo -n "hello"
+@echo " Makefile!"
+@echo "这里可以执行多条Shell命令！"
+endef
+
+all :
+	$(run-hello-makefile)

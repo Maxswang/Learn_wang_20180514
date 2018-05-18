@@ -1,0 +1,358 @@
+USER        PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root          1  0.0  0.2 225780  8212 ?        Ss   5月17   0:09 /sbin/init splash
+root          2  0.0  0.0      0     0 ?        S    5月17   0:00 [kthreadd]
+root          4  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/0:0H]
+root          6  0.0  0.0      0     0 ?        I<   5月17   0:00 [mm_percpu_wq]
+root          7  0.0  0.0      0     0 ?        S    5月17   0:00 [ksoftirqd/0]
+root          8  0.0  0.0      0     0 ?        I    5月17   0:47 [rcu_sched]
+root          9  0.0  0.0      0     0 ?        I    5月17   0:00 [rcu_bh]
+root         10  0.0  0.0      0     0 ?        S    5月17   0:00 [migration/0]
+root         11  0.0  0.0      0     0 ?        S    5月17   0:00 [watchdog/0]
+root         12  0.0  0.0      0     0 ?        S    5月17   0:00 [cpuhp/0]
+root         13  0.0  0.0      0     0 ?        S    5月17   0:00 [cpuhp/1]
+root         14  0.0  0.0      0     0 ?        S    5月17   0:00 [watchdog/1]
+root         15  0.0  0.0      0     0 ?        S    5月17   0:00 [migration/1]
+root         16  0.0  0.0      0     0 ?        S    5月17   0:00 [ksoftirqd/1]
+root         18  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/1:0H]
+root         19  0.0  0.0      0     0 ?        S    5月17   0:00 [cpuhp/2]
+root         20  0.0  0.0      0     0 ?        S    5月17   0:00 [watchdog/2]
+root         21  0.0  0.0      0     0 ?        S    5月17   0:00 [migration/2]
+root         22  0.0  0.0      0     0 ?        S    5月17   0:00 [ksoftirqd/2]
+root         24  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/2:0H]
+root         25  0.0  0.0      0     0 ?        S    5月17   0:00 [cpuhp/3]
+root         26  0.0  0.0      0     0 ?        S    5月17   0:00 [watchdog/3]
+root         27  0.0  0.0      0     0 ?        S    5月17   0:00 [migration/3]
+root         28  0.0  0.0      0     0 ?        S    5月17   0:00 [ksoftirqd/3]
+root         30  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/3:0H]
+root         31  0.0  0.0      0     0 ?        S    5月17   0:00 [cpuhp/4]
+root         32  0.0  0.0      0     0 ?        S    5月17   0:00 [watchdog/4]
+root         33  0.0  0.0      0     0 ?        S    5月17   0:00 [migration/4]
+root         34  0.0  0.0      0     0 ?        S    5月17   0:00 [ksoftirqd/4]
+root         36  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/4:0H]
+root         37  0.0  0.0      0     0 ?        S    5月17   0:00 [cpuhp/5]
+root         38  0.0  0.0      0     0 ?        S    5月17   0:00 [watchdog/5]
+root         39  0.0  0.0      0     0 ?        S    5月17   0:00 [migration/5]
+root         40  0.0  0.0      0     0 ?        S    5月17   0:00 [ksoftirqd/5]
+root         42  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/5:0H]
+root         43  0.0  0.0      0     0 ?        S    5月17   0:00 [cpuhp/6]
+root         44  0.0  0.0      0     0 ?        S    5月17   0:00 [watchdog/6]
+root         45  0.0  0.0      0     0 ?        S    5月17   0:00 [migration/6]
+root         46  0.0  0.0      0     0 ?        S    5月17   0:00 [ksoftirqd/6]
+root         48  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/6:0H]
+root         49  0.0  0.0      0     0 ?        S    5月17   0:00 [cpuhp/7]
+root         50  0.0  0.0      0     0 ?        S    5月17   0:00 [watchdog/7]
+root         51  0.0  0.0      0     0 ?        S    5月17   0:00 [migration/7]
+root         52  0.0  0.0      0     0 ?        S    5月17   0:00 [ksoftirqd/7]
+root         54  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/7:0H]
+root         55  0.0  0.0      0     0 ?        S    5月17   0:00 [kdevtmpfs]
+root         56  0.0  0.0      0     0 ?        I<   5月17   0:00 [netns]
+root         57  0.0  0.0      0     0 ?        S    5月17   0:00 [rcu_tasks_kthre]
+root         58  0.0  0.0      0     0 ?        S    5月17   0:00 [kauditd]
+root         61  0.0  0.0      0     0 ?        S    5月17   0:00 [khungtaskd]
+root         62  0.0  0.0      0     0 ?        S    5月17   0:00 [oom_reaper]
+root         63  0.0  0.0      0     0 ?        I<   5月17   0:00 [writeback]
+root         64  0.0  0.0      0     0 ?        S    5月17   0:01 [kcompactd0]
+root         65  0.0  0.0      0     0 ?        SN   5月17   0:00 [ksmd]
+root         66  0.0  0.0      0     0 ?        SN   5月17   0:00 [khugepaged]
+root         67  0.0  0.0      0     0 ?        I<   5月17   0:00 [crypto]
+root         68  0.0  0.0      0     0 ?        I<   5月17   0:00 [kintegrityd]
+root         69  0.0  0.0      0     0 ?        I<   5月17   0:00 [kblockd]
+root         70  0.0  0.0      0     0 ?        I<   5月17   0:00 [ata_sff]
+root         71  0.0  0.0      0     0 ?        I<   5月17   0:00 [md]
+root         72  0.0  0.0      0     0 ?        I<   5月17   0:00 [edac-poller]
+root         73  0.0  0.0      0     0 ?        I<   5月17   0:00 [devfreq_wq]
+root         74  0.0  0.0      0     0 ?        I<   5月17   0:00 [watchdogd]
+root         76  0.0  0.0      0     0 ?        I    5月17   0:01 [kworker/2:1]
+root         78  0.0  0.0      0     0 ?        I    5月17   0:02 [kworker/3:1]
+root         83  0.0  0.0      0     0 ?        S    5月17   0:02 [kswapd0]
+root         84  0.0  0.0      0     0 ?        S    5月17   0:00 [ecryptfs-kthrea]
+root        126  0.0  0.0      0     0 ?        I<   5月17   0:00 [kthrotld]
+root        127  0.0  0.0      0     0 ?        I<   5月17   0:00 [acpi_thermal_pm]
+root        128  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_0]
+root        129  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_0]
+root        130  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_1]
+root        131  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_1]
+root        137  0.0  0.0      0     0 ?        I<   5月17   0:00 [ipv6_addrconf]
+root        146  0.0  0.0      0     0 ?        I<   5月17   0:00 [kstrp]
+root        163  0.0  0.0      0     0 ?        I<   5月17   0:00 [charger_manager]
+root        222  0.0  0.0      0     0 ?        I<   5月17   0:00 [mpt_poll_0]
+root        223  0.0  0.0      0     0 ?        I<   5月17   0:00 [mpt/0]
+root        224  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_2]
+root        225  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_2]
+root        226  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_3]
+root        227  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_3]
+root        228  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_4]
+root        229  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_4]
+root        230  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_5]
+root        231  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_5]
+root        232  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_6]
+root        233  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_6]
+root        234  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_7]
+root        235  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_7]
+root        236  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_8]
+root        237  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_8]
+root        238  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_9]
+root        239  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_9]
+root        240  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_10]
+root        241  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_10]
+root        242  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_11]
+root        243  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_11]
+root        244  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_12]
+root        245  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_12]
+root        246  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_13]
+root        247  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_13]
+root        248  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_14]
+root        249  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_14]
+root        250  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_15]
+root        251  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_15]
+root        252  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_16]
+root        253  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_16]
+root        254  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_17]
+root        255  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_17]
+root        256  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_18]
+root        257  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_18]
+root        258  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_19]
+root        259  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_19]
+root        260  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_20]
+root        261  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_20]
+root        262  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_21]
+root        263  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_21]
+root        264  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_22]
+root        265  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_22]
+root        266  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_23]
+root        267  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_23]
+root        268  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_24]
+root        269  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_24]
+root        270  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_25]
+root        271  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_25]
+root        272  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_26]
+root        273  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_26]
+root        274  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_27]
+root        275  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_27]
+root        276  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_28]
+root        277  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_28]
+root        278  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_29]
+root        279  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_29]
+root        280  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_30]
+root        281  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_30]
+root        282  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_31]
+root        283  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_31]
+root        284  0.0  0.0      0     0 ?        S    5月17   0:00 [scsi_eh_32]
+root        285  0.0  0.0      0     0 ?        I<   5月17   0:00 [scsi_tmf_32]
+root        313  0.0  0.0      0     0 ?        I<   5月17   0:00 [ttm_swap]
+root        314  0.0  0.0      0     0 ?        S    5月17   0:05 [irq/16-vmwgfx]
+root        322  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/4:1H]
+root        324  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/3:1H]
+root        325  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/2:1H]
+root        326  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/7:1H]
+root        333  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/1:1H]
+root        362  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/6:1H]
+root        365  0.0  0.0      0     0 ?        S    5月17   0:02 [jbd2/sda1-8]
+root        366  0.0  0.0      0     0 ?        I<   5月17   0:00 [ext4-rsv-conver]
+root        380  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/0:1H]
+root        404  0.0  0.3 111812 13056 ?        S<s  5月17   0:04 /lib/systemd/systemd-journald
+root        411  0.0  0.0      0     0 ?        I<   5月17   0:00 [kworker/5:1H]
+root        423  0.0  0.1  49976  4540 ?        Ss   5月17   0:00 /lib/systemd/systemd-udevd
+root        444  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop0]
+root        445  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop1]
+root        459  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop2]
+root        460  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop3]
+root        472  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop4]
+root        473  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop5]
+root        474  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop6]
+root        480  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop7]
+root        483  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop8]
+root        484  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop9]
+root        485  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop10]
+root        486  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop11]
+root        487  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop12]
+root        488  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop13]
+root        489  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop14]
+root        490  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop15]
+root        491  0.0  0.0      0     0 ?        S<   5月17   0:00 [loop16]
+root        929  0.0  0.0      0     0 ?        S    5月17   0:01 [jbd2/sda7-8]
+root        930  0.0  0.0      0     0 ?        I<   5月17   0:00 [ext4-rsv-conver]
+root        934  0.0  0.0      0     0 ?        S    5月17   0:00 [jbd2/sda6-8]
+root        935  0.0  0.0      0     0 ?        I<   5月17   0:00 [ext4-rsv-conver]
+root        937  0.0  0.0      0     0 ?        S    5月17   0:05 [jbd2/sda5-8]
+root        938  0.0  0.0      0     0 ?        I<   5月17   0:00 [ext4-rsv-conver]
+systemd+    958  0.0  0.1  71732  6080 ?        Ss   5月17   0:06 /lib/systemd/systemd-resolved
+systemd+    960  0.0  0.0 146092  2124 ?        Ssl  5月17   0:00 /lib/systemd/systemd-timesyncd
+avahi      1062  0.0  0.0  47256  2932 ?        Ss   5月17   0:02 avahi-daemon: running [gm.local]
+root       1063  0.0  0.0 110512  3200 ?        Ssl  5月17   0:10 /usr/sbin/irqbalance --foreground
+root       1065  0.0  0.1  70700  5080 ?        Ss   5月17   0:01 /lib/systemd/systemd-logind
+root       1068  0.0  0.0  38428  3052 ?        Ss   5月17   0:00 /usr/sbin/cron -f
+root       1071  0.0  0.1 427252  5660 ?        Ssl  5月17   0:00 /usr/sbin/ModemManager
+root       1080  0.0  0.0   4552   660 ?        Ss   5月17   0:04 /usr/sbin/acpid
+avahi      1091  0.0  0.0  47076    64 ?        S    5月17   0:00 avahi-daemon: chroot helper
+root       1106  0.0  0.3 999708 14488 ?        Ssl  5月17   0:10 /usr/lib/snapd/snapd
+syslog     1109  0.0  0.0 263036  3016 ?        Ssl  5月17   0:00 /usr/sbin/rsyslogd -n
+root       1117  0.0  0.2 177624 10200 ?        Ssl  5月17   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher
+root       1126  0.0  0.2 308884  8468 ?        Ssl  5月17   0:01 /usr/lib/accountsservice/accounts-daemon
+root       1133  0.0  0.2 186948  8100 ?        Ssl  5月17   0:13 /usr/sbin/thermald --no-daemon --dbus-enable
+root       1138  0.0  0.0  36500  3592 ?        Ss   5月17   0:00 /usr/lib/bluetooth/bluetoothd
+root       1149  0.0  0.2 518108  9852 ?        Ssl  5月17   0:00 /usr/lib/udisks2/udisksd
+message+   1150  0.0  0.1  51780  5604 ?        Ss   5月17   0:03 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       1199  0.0  0.0  44752  3844 ?        Ss   5月17   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       1200  0.0  0.4 582748 16524 ?        Ssl  5月17   0:05 /usr/sbin/NetworkManager --no-daemon
+root       1213  0.0  0.2 322012 11580 ?        Ssl  5月17   0:01 /usr/lib/policykit-1/polkitd --no-debug
+root       1316  0.0  0.1  72296  5664 ?        Ss   5月17   0:00 /usr/sbin/sshd -D
+root       1337  0.0  0.1 308292  7272 ?        Ssl  5月17   0:00 /usr/sbin/gdm3
+mysql      1360  0.0  4.2 1381708 172256 ?      Sl   5月17   1:07 /usr/sbin/mysqld --daemonize --pid-file=/var/run/mysqld/mysqld.pid
+root       1361  0.0  0.1 261768  7716 ?        Sl   5月17   0:00 gdm-session-worker [pam/gdm-launch-environment]
+gdm        1387  0.0  0.1  77008  6884 ?        Ss   5月17   0:00 /lib/systemd/systemd --user
+gdm        1388  0.0  0.0 114160  1368 ?        S    5月17   0:00 (sd-pam)
+gdm        1404  0.0  0.1 197908  5492 tty1     Ssl+ 5月17   0:00 /usr/lib/gdm3/gdm-wayland-session gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm        1409  0.0  0.1  50244  4352 ?        Ss   5月17   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gdm        1411  0.0  0.3 567192 14184 tty1     Sl+  5月17   0:00 /usr/lib/gnome-session/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+gdm        1444  0.0  2.5 3788116 102396 tty1   Sl+  5月17   0:38 /usr/bin/gnome-shell
+root       1508  0.0  0.1 322344  8016 ?        Ssl  5月17   0:00 /usr/lib/upower/upowerd
+gdm        1605  0.8  0.5 848332 23548 tty1     Sl+  5月17   9:40 /usr/bin/Xwayland :1024 -rootless -terminate -accessx -core -listen 4 -listen 5 -displayfd 6
+gdm        1643  0.0  0.1 365612  7948 ?        Ssl  5月17   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+gdm        1661  0.0  0.0  49928  3516 ?        S    5月17   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm        1663  0.0  0.1 220760  5704 ?        Sl   5月17   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+root       1665  0.0  0.0 193076   624 ?        Ssl  5月17   0:00 /usr/sbin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+gdm        1686  0.0  0.2 1153488 9216 ?        Ssl  5月17   0:00 /usr/bin/pulseaudio --daemonize=no
+rtkit      1687  0.0  0.0 183504  2912 ?        SNsl 5月17   0:01 /usr/lib/rtkit/rtkit-daemon
+root       1692  0.1  0.2 174124  8288 ?        Sl   5月17   1:29 /usr/sbin/vmtoolsd
+root       1712  0.0  0.2  72248  8900 ?        S    5月17   0:00 /usr/lib/vmware-vgauth/VGAuthService -s
+root       1761  0.0  0.1 511056  5832 ?        Sl   5月17   0:50 //usr/lib/vmware-caf/pme/bin/ManagementAgentHost
+whoopsie   1764  0.0  0.3 468832 12456 ?        Ssl  5月17   0:00 /usr/bin/whoopsie -f
+root       1768  0.0  0.2 272608  8644 ?        Ss   5月17   0:01 /usr/sbin/nmbd --foreground --no-process-group
+root       1770  0.0  0.1 775452  4236 ?        Ssl  5月17   0:03 /snap/canonical-livepatch/39/canonical-livepatchd
+kernoops   1789  0.0  0.0  56932   424 ?        Ss   5月17   0:02 /usr/sbin/kerneloops --test
+kernoops   1792  0.0  0.0  56932   420 ?        Ss   5月17   0:02 /usr/sbin/kerneloops
+root       1800  0.1  0.1 1553296 5672 ?        Sl   5月17   1:31 /opt/teamviewer/tv_bin/teamviewerd -d
+root       1825  0.0  0.2 363848 11716 ?        Ss   5月17   0:00 /usr/sbin/smbd --foreground --no-process-group
+root       1833  0.0  0.1 352132  4268 ?        S    5月17   0:00 /usr/sbin/smbd --foreground --no-process-group
+root       1834  0.0  0.0 352124  3296 ?        S    5月17   0:00 /usr/sbin/smbd --foreground --no-process-group
+gdm        1842  0.0  0.2 375544  8980 tty1     Sl   5月17   0:00 ibus-daemon --xim --panel disable
+root       1844  0.0  0.1 363848  5160 ?        S    5月17   0:00 /usr/sbin/smbd --foreground --no-process-group
+gdm        1909  0.0  0.1 294740  7444 tty1     Sl   5月17   0:00 /usr/lib/ibus/ibus-dconf
+gdm        1917  0.0  0.6 490824 27868 tty1     Sl   5月17   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+gdm        1931  0.0  0.1 292684  7268 ?        Sl   5月17   0:00 /usr/lib/ibus/ibus-portal
+root       1958  0.0  0.2 315360  8892 ?        Ssl  5月17   0:00 /usr/lib/x86_64-linux-gnu/boltd
+root       1959  0.0  0.4 459536 19336 ?        Ssl  5月17   0:16 /usr/lib/packagekit/packagekitd
+gdm        1960  0.0  0.7 639492 28952 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+gdm        1966  0.0  0.1 294776  7868 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+gdm        1970  0.0  0.6 490504 27604 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard
+gdm        1971  0.0  0.7 803496 29040 tty1     Sl+  5月17   0:14 /usr/lib/gnome-settings-daemon/gsd-color
+gdm        1974  0.0  0.3 393872 12836 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+gdm        1975  0.0  0.1 283880  5504 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+gdm        1976  0.0  0.7 642788 28120 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+gdm        1978  0.0  0.7 1158944 29892 tty1    Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+gdm        1984  0.0  0.1 202140  4492 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+gdm        1985  0.0  0.7 662060 29448 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-power
+gdm        1988  0.0  0.2 267148  8476 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+gdm        1989  0.0  0.1 202160  4416 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+gdm        1990  0.0  0.1 275876  4536 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+gdm        1993  0.0  0.2 321728  9536 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+gdm        1996  0.0  0.1 390852  7396 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+gdm        2000  0.0  0.2 341232  9036 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+gdm        2002  0.0  0.7 575420 29016 tty1     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+gdm        2015  0.0  0.1 218884  7264 tty1     Sl   5月17   0:00 /usr/lib/ibus/ibus-engine-simple
+colord     2052  0.0  0.3 339824 14884 ?        Ssl  5月17   0:00 /usr/lib/colord/colord
+root       2069  0.0  0.1 267972  7884 ?        Sl   5月17   0:00 gdm-session-worker [pam/gdm-password]
+wang       2079  0.0  0.1  77052  7148 ?        Ss   5月17   0:00 /lib/systemd/systemd --user
+wang       2080  0.0  0.0 114160  1964 ?        S    5月17   0:00 (sd-pam)
+wang       2093  0.0  0.1 509972  6516 ?        Sl   5月17   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+wang       2098  0.0  0.1 212240  5928 tty2     Ssl+ 5月17   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+wang       2100  0.4  1.4 455400 56684 tty2     Sl+  5月17   5:25 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+wang       2118  0.0  0.1  52188  6332 ?        Ss   5月17   0:18 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+wang       2121  0.0  0.3 652304 15072 tty2     Sl+  5月17   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+wang       2143  0.0  0.9 308376 38668 ?        S    5月17   0:41 /usr/bin/fcitx
+wang       2157  0.0  0.0  50068  3264 ?        Ss   5月17   0:32 /usr/bin/dbus-daemon --syslog --fork --print-pid 5 --print-address 7 --config-file /usr/share/fcitx/dbus/daemon.conf
+wang       2166  0.0  0.0  27592   208 ?        SN   5月17   0:00 /usr/bin/fcitx-dbus-watcher unix:abstract=/tmp/dbus-Bq72Q1wXPA,guid=64f16b4595991e70abe6d15f5afc311f 2157
+wang       2212  0.0  0.0  11304   320 ?        Ss   5月17   0:00 /usr/bin/ssh-agent /usr/bin/sogou-session /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu
+wang       2216  0.0  0.1 292072  6644 ?        Ssl  5月17   0:00 /usr/lib/gvfs/gvfsd
+wang       2221  0.0  0.1 432036  7612 ?        Sl   5月17   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+wang       2230  0.0  0.2 367936  8556 ?        Ssl  5月17   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+wang       2235  0.0  0.1  50052  4120 ?        S    5月17   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+wang       2237  0.0  0.1 220772  6724 ?        Sl   5月17   0:02 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+wang       2253  0.6  8.5 4283040 342032 tty2   Sl+  5月17   7:32 /usr/bin/gnome-shell
+wang       2263  0.0  0.2 1172492 10128 ?       S<l  5月17   0:31 /usr/bin/pulseaudio --start --log-target=syslog
+root       2268  0.0  0.0      0     0 ?        S<   5月17   0:00 [krfcommd]
+wang       2282  0.0  0.2 377692  9372 tty2     Sl   5月17   0:00 ibus-daemon --xim --panel disable
+wang       2286  0.0  0.1 297044  8016 tty2     Sl   5月17   0:00 /usr/lib/ibus/ibus-dconf
+wang       2288  0.0  0.5 356944 21544 tty2     Sl   5月17   0:01 /usr/lib/ibus/ibus-x11 --kill-daemon
+wang       2290  0.0  0.1 294980  7844 ?        Sl   5月17   0:00 /usr/lib/ibus/ibus-portal
+wang       2301  0.0  0.3 696424 13728 ?        Sl   5月17   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+wang       2305  0.0  0.4 1309176 19828 ?       Ssl  5月17   0:00 /usr/lib/evolution/evolution-source-registry
+wang       2313  0.0  0.4 101437188 18228 ?     Sl   5月17   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+wang       2320  0.0  0.2 320496 10016 ?        Ssl  5月17   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+wang       2330  0.0  0.2 319796  8796 ?        Sl   5月17   0:01 /usr/lib/gnome-online-accounts/goa-identity-service
+wang       2335  0.0  0.1 378940  7240 ?        Ssl  5月17   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+wang       2340  0.0  0.1 274172  5560 ?        Ssl  5月17   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+wang       2344  0.0  0.1 288756  6396 ?        Ssl  5月17   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+wang       2348  0.0  0.1 275968  4660 ?        Ssl  5月17   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+wang       2354  0.0  0.6 528016 25760 tty2     Sl+  5月17   0:01 /usr/lib/gnome-settings-daemon/gsd-power
+wang       2358  0.0  0.2 349456  9788 tty2     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+wang       2359  0.0  0.1 423488  5764 tty2     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+wang       2362  0.0  0.1 275876  5656 tty2     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+wang       2365  0.0  0.2 471624 11172 tty2     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+wang       2370  0.0  0.2 343400  9160 tty2     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+wang       2375  0.0  0.5 505508 22672 tty2     Sl+  5月17   0:01 /usr/lib/gnome-settings-daemon/gsd-xsettings
+wang       2378  0.0  0.6 441468 24596 tty2     Sl+  5月17   0:01 /usr/lib/gnome-settings-daemon/gsd-wacom
+wang       2381  0.0  0.1 466752  7772 tty2     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+wang       2391  0.0  0.2 296948  8192 tty2     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+wang       2392  0.0  0.5 356620 21656 tty2     Sl+  5月17   0:01 /usr/lib/gnome-settings-daemon/gsd-clipboard
+wang       2393  0.0  0.6 743428 25340 tty2     Sl+  5月17   0:15 /usr/lib/gnome-settings-daemon/gsd-color
+wang       2395  0.0  0.5 482792 21912 tty2     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+wang       2397  0.0  0.2 374988  8472 tty2     Sl+  5月17   0:07 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+wang       2398  0.0  0.5 508792 21852 tty2     Sl+  5月17   0:01 /usr/lib/gnome-settings-daemon/gsd-keyboard
+wang       2399  0.0  0.5 1090520 23680 tty2    Sl+  5月17   0:01 /usr/lib/gnome-settings-daemon/gsd-media-keys
+wang       2402  0.0  0.1 296956  7824 tty2     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse
+wang       2423  0.0  0.3 508900 12192 tty2     Sl+  5月17   0:00 /usr/lib/gnome-settings-daemon/gsd-printer
+wang       2452  0.0  2.3 1166740 96240 tty2    Sl+  5月17   0:11 nautilus-desktop
+wang       2459  0.0  4.6 1444384 187668 tty2   SLl+ 5月17   0:14 /usr/bin/gnome-software --gapplication-service
+wang       2460  0.0  0.1 271928  6072 tty2     Sl+  5月17   0:00 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify
+wang       2466  0.1  0.3 188176 13228 tty2     S+   5月17   1:33 /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+wang       2468  0.0  1.3 893960 55008 ?        Ssl  5月17   0:00 /usr/lib/evolution/evolution-calendar-factory
+wang       2484  0.0  0.2 384420  9336 ?        Sl   5月17   0:01 /usr/lib/gvfs/gvfsd-trash --spawner :1.9 /org/gtk/gvfs/exec_spaw/0
+wang       2514  0.0  0.2 242876  9780 tty2     Sl   5月17   0:00 /usr/lib/ibus/ibus-engine-libpinyin --ibus
+wang       2525  0.0  0.1 188032  5188 ?        Sl   5月17   0:00 /usr/lib/dconf/dconf-service
+wang       2528  0.0  1.2 1142208 50300 ?       Sl   5月17   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2468x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2468/2
+wang       2549  0.0  0.3 735268 15380 ?        Ssl  5月17   0:00 /usr/lib/evolution/evolution-addressbook-factory
+wang       2563  0.0  0.4 1026528 18428 ?       Sl   5月17   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx2549x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/2549/2
+wang       2590  0.0  0.1 204644  5712 ?        Ssl  5月17   0:00 /usr/lib/gvfs/gvfsd-metadata
+wang       2594  0.0  0.1  80128  5552 ?        S    5月17   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+wang       2599  0.1 23.4 4130616 939704 ?      Sl   5月17   1:50 sogou-qimpanel
+root       2616  0.0  0.4 564712 17608 ?        Ssl  5月17   0:03 /usr/lib/fwupd/fwupd
+wang       2760  0.0  0.4  83924 19088 ?        S    5月17   0:03 /usr/bin/python3 /home/wang/.local/bin/powerline-daemon -q
+wang       3262  0.0  0.6 621840 26072 tty2     Sl+  5月17   0:02 update-notifier
+wang       3541  0.0  0.4 101448516 19084 tty2  Sl+  5月17   0:00 /usr/lib/deja-dup/deja-dup-monitor
+wang       4811  0.0  0.3 318584 15948 tty2     SLl+ 5月17   0:03 ss-qt5
+wang       4814  0.0  0.0      0     0 tty2     Z+   5月17   0:00 [Shadowsocks-Qt5] <defunct>
+wang       4817  0.0  0.0  21884  1760 ?        Ssl  5月17   0:02 /home/wang/snap/Shadowsocks-Qt5-3.0.0-x86_64.AppImage
+wang       5270  0.0  0.2 359780  9328 ?        Sl   5月17   0:00 /usr/lib/gvfs/gvfsd-http --spawner :1.9 /org/gtk/gvfs/exec_spaw/1
+wang       6535  0.0  0.0  11304  3392 ?        S    00:28   0:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+wang      13520  0.0  0.2 446136 10036 ?        Ssl  03:56   0:00 /usr/bin/zeitgeist-daemon
+wang      13536  0.0  0.2 331048 11032 ?        Ssl  03:56   0:00 /usr/lib/zeitgeist/zeitgeist/zeitgeist-fts
+root      17415  0.0  0.0      0     0 ?        I    08:02   0:02 [kworker/1:0]
+wang      17593  0.2  1.2 700048 50064 ?        Ssl  08:03   1:09 /usr/lib/gnome-terminal/gnome-terminal-server
+wang      17600  0.0  0.1  31416  7024 pts/0    Ss   08:03   0:02 bash
+root      20470  0.0  0.2 108208  8720 ?        Ss   12:26   0:00 /usr/sbin/cupsd -l
+root      20471  0.0  0.2 303648 10968 ?        Ssl  12:26   0:00 /usr/sbin/cups-browsed
+root      20917  0.0  0.0      0     0 ?        I    12:33   0:00 [kworker/5:0]
+root      21212  0.0  0.0      0     0 ?        I    12:34   0:01 [kworker/0:3]
+root      23695  0.0  0.0      0     0 ?        I<   14:09   0:00 [kworker/u257:1]
+root      23696  0.0  0.0      0     0 ?        I<   14:09   0:00 [kworker/u257:2]
+root      24034  0.0  0.0      0     0 ?        I    14:34   0:00 [kworker/5:1]
+wang      24822  0.0  0.1  30048  5352 pts/1    Ss   15:27   0:00 bash
+wang      24852  0.0  0.1  28664  4108 pts/1    S+   15:27   0:00 man fork
+wang      24862  0.0  0.0  16956   972 pts/1    S+   15:27   0:00 pager
+root      25704  0.0  0.0      0     0 ?        I    16:01   0:04 [kworker/7:0]
+root      25713  0.0  0.1  25656  6100 ?        S    16:01   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-ens33.pid -lf /var/lib/NetworkManager/dhclient-ad098b5f-a890-3d66-8fa5-ac0037d86a48-ens33.lease -cf /var/lib/NetworkManager/dhclient-ens33.conf ens33
+root      25817  0.0  0.0      0     0 ?        I    16:06   0:00 [kworker/3:2]
+root      26010  0.0  0.0      0     0 ?        I    16:28   0:00 [kworker/2:0]
+root      26609  0.0  0.0      0     0 ?        I    16:37   0:00 [kworker/6:2]
+root      27426  0.0  0.0      0     0 ?        I    16:56   0:00 [kworker/4:0]
+root      27586  0.0  0.0      0     0 ?        I    17:03   0:00 [kworker/u256:2]
+root      27588  0.0  0.0      0     0 ?        I    17:04   0:00 [kworker/1:2]
+root      27637  0.0  0.0      0     0 ?        I    17:06   0:00 [kworker/7:2]
+root      27657  0.0  0.0      0     0 ?        I    17:11   0:00 [kworker/0:0]
+root      27670  0.0  0.0      0     0 ?        I    17:17   0:00 [kworker/u256:0]
+root      27681  0.0  0.0      0     0 ?        I    17:20   0:00 [kworker/6:1]
+root      27688  0.0  0.0      0     0 ?        I    17:21   0:00 [kworker/4:1]
+root      27784  0.0  0.0      0     0 ?        I    17:25   0:00 [kworker/u256:1]
+wang      27827  0.0  0.0  46776  3620 pts/0    R+   17:29   0:00 ps -aux

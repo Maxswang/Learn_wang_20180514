@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
 
     if(argc == 2)
     {
-    n = atoi(argv[1]); 
+        n = atoi(argv[1]); 
     }
     for(i = 0; i < n; i++)
     {
@@ -28,16 +28,16 @@ int main(int argc, char *argv[])
     }
     if(n == i)
     {
-        sleep(n);
+       sleep(n);
         printf("I am parent , pid = %d\n", getpid());
-// while(wait(NULL));
+        // while(wait(NULL));
         do{
-       wpid  =  waitpid(-1, NULL,WNOHANG );
-        if(wpid > 0)
-        {
-            n--;
-        }
-        sleep(1);
+            wpid  =  waitpid(-1, NULL,WNOHANG );
+            if(wpid > 0)
+            {
+                n--;
+            }
+            sleep(1);
         }
         while(n > 0);
         printf("wait finish\n");
@@ -45,9 +45,9 @@ int main(int argc, char *argv[])
         sleep(i);
         printf("I'm %dth child, pid =%d, gpid = %d\n", i+1, getpid(),getgid());
     }
-    
 
 
 
-return 0;
+
+    return 0;
 }
